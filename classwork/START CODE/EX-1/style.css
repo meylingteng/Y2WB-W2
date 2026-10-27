@@ -1,0 +1,35 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container{
+    margin: 40px 100px;
+}
+.box{
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
+button{
+    padding: 10px 15px;
+    border-radius: 30px;
+    border: none;
+    cursor: pointer;                       
+}
+button:hover{
+    background-color: rgb(164, 159, 159);
+    color: white;
+}
+
+.green{
+    background-color: green;
+    color: white;
+}
+.orange{
+    background-color: orange;
+}
+.purple{
+    background-color: purple;
+    color: white;
+}

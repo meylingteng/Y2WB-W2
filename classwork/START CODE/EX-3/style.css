@@ -1,0 +1,19 @@
+/* TODO */
+body{
+    background-color: rgb(250, 250, 249);
+    text-align: center;
+}
+button{
+    background-color: rgb(255, 153, 243);
+    color: rgb(244, 240, 244);
+    padding: 12px 25px;
+    border: 2px solid rgb(161, 6, 154);
+    border-radius: 10px;
+    font-size: 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #7d0f6f;
+    color: white;
+    border-color: #47083e;
+}
